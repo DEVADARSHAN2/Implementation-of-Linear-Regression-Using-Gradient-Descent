@@ -65,8 +65,9 @@ print(f"Predicted value:{pre}")
 ![Screenshot 2024-03-15 213143](https://github.com/DEVADARSHAN2/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119432150/1dc70c48-50fb-464b-8432-dd9c6b7c61e7)
 
 ![Screenshot 2024-03-15 213212](https://github.com/DEVADARSHAN2/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119432150/3bd84f54-c78a-4aba-96a7-f8a61cefc5c9)
+### Predicted Value:
 
-![Screenshot 2024-03-15 213228](https://github.com/DEVADARSHAN2/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119432150/b3509cdd-4d8a-47d1-987b-9cb17c7ad06d)
+![image](https://github.com/DEVADARSHAN2/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119432150/81d39cfd-35da-4b1e-91e5-0c81b63ba502)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
