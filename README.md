@@ -14,11 +14,7 @@ To write a program to predict the profit of a city using the linear regression m
 4. Iterate through the specified number of iterations, computing predictions, errors, and updating theta using gradient descent.
 5. Read the dataset into a DataFrame, assuming the last column as the target variable 'y' and preceding columns as features 'X'.
 6. Standardize the features and target variable using StandardScaler, learn model parameters using linear_regression function, and predict the target value for a new data point after scaling it.  
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
