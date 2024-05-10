@@ -1,4 +1,4 @@
-# Ex 03 - Implementation of Simple Linear Regression Model Using Gradient descent
+# Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -8,14 +8,17 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the required library and read the dataframe.
-
-2. Write a function computeCost to generate the cost function.
-
-3. Perform iterations og gradient steps with learning rate.
-
-4. Plot the Cost function using Gradient Descent and generate the required graph.
-
+1. Import StandardScaler to standardize the features and target variable.
+2. Implement a function for linear regression with gradient descent, taking input features X1, target variable y, learning rate, and number of iterations as parameters.
+3. Add a column of ones to feature matrix X for the intercept term and initialize theta (parameters) with zeros.
+4. Iterate through the specified number of iterations, computing predictions, errors, and updating theta using gradient descent.
+5. Read the dataset into a DataFrame, assuming the last column as the target variable 'y' and preceding columns as features 'X'.
+6. Standardize the features and target variable using StandardScaler, learn model parameters using linear_regression function, and predict the target value for a new data point after scaling it.  
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
